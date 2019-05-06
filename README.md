@@ -4,6 +4,11 @@
 ![](images/screenshot.png)
 
 ## Installation
+Install from the package catalog
+```sh
+raco pkg install drracket-ayu-mirage
+```
+Clone and install from GitHub
 ```sh
 git clone https://github.com/oransimhony/drracket-ayu-mirage.git
 raco pkg install ./drracket-ayu-mirage
